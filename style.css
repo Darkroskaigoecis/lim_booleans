@@ -1,0 +1,88 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top; 
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+   }
+
+.intro {
+    padding: 66px;
+    
+    margin: 30px 230px 0 230px;
+    background-color: black;
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+}
+
+.img_logo {
+   width: 300px;
+  }
+
+.subtitle{
+    color: #45DC00;
+    font-size: 40px;
+    margin-top: -5px;
+   
+   
+}
+
+.buttons {
+    background-color: #45DC00;
+    padding: 12px;
+}
+.inline{
+    display: inline-block;
+}
+
+.p_gino{
+    font-size: 28px;
+    color: white;
+    margin:2px;
+    font-weight: bold;
+}
+
+.sub {
+    color: white;
+    margin-top: -5px;
+}
+.arrow{
+    widht:15px;
+    height: 15px;
+}
+.carica_orange{
+    width: 35%;
+    background-color: #F5B453;
+    border-radius: 3px;
+    padding: 15px;
+    margin-top: -30px;
+}
+.carica_green{
+    width: 50%;
+    background-color: #45DC00;
+    border-radius: 3px;
+    padding: 15px;
+    margin-top: -30px;
+}
+.carica_red{
+    width: 10%;
+    background-color: #BE4141;
+    border-radius: 3px;
+    padding: 15px;
+    margin-top: -30px;
+}
+
+.gino_final{
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
